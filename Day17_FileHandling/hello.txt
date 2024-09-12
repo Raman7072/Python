@@ -1,0 +1,6 @@
+hello world this is line-1
+we are reading line-2 here
+and this is line-3
+let's write line no 4
+ha ha ha this is line no 5
+this is awesome line no 6
